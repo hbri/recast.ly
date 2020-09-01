@@ -129,7 +129,8 @@ var exampleVideoData = [{
     channelTitle: 'bengrunfeld',
     liveBroadcastContent: 'none'
   }
-}, {
+}, 
+{
   kind: 'youtube#searchResult',
   etag: 'abQHWywil_AkNqdqji7_FqiK-u4/3E7u1VZ18KYyfLIA6RgI2w-7nRI',
   id: {
